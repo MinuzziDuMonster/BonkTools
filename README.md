@@ -10,7 +10,7 @@
 > 4. Clique em instalar extensão
 > 5. Abra o [bonk.io](https://bonk.io/) (ou reinicie ele, caso já esteja aberto)
 > 6. Desça a página, onde aparecerá os seguintes botões:
-> <img src="/Buttons.png" alt="Buttons"><img/>
+<img src="/Buttons.png" alt="Buttons"><img/>
 
 #
 

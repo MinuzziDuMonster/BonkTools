@@ -9,11 +9,10 @@
 > 3. Abra o arquivo baixado
 > 4. Clique em instalar extensão
 > 5. Abra o [bonk.io](https://bonk.io/) (ou reinicie ele, caso já esteja aberto)
-> 6. Desça a página, onde aparecerá os seguintes botões:
-<img src="/Buttons.png" alt="Buttons"><img/>
-
-#
+> 6. Desça a página do bonk, onde aparecerá os seguintes botões:
+# <img src="/Buttons.png" alt="Buttons"><img/>
 
 ### - **Informações:**
 > - **Créditos:** BlackBL 
 > - **Data do inicio da criação:** 01/10/22
+> - **Logo logo será adicionado mais funções, fique de olho no nosso GitHub, pois a extensão sempre será atualizada por aqui.**

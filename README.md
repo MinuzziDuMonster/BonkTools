@@ -6,12 +6,8 @@
 
 ### - **Como instalar:**
 
-> 1. Clique em [BonkTools.crx:](https://github.com/OBlackBL/BonkTools/blob/main/BonkTools.crx)
-> 2. Clique em [Download](https://github.com/OBlackBL/BonkTools/raw/main/BonkTools.crx)
-> 3. Abra o arquivo baixado
-> 4. Clique em instalar extensão
-> 5. Abra o [bonk.io](https://bonk.io/) (ou reinicie ele, caso já esteja aberto)
-> 6. Desça a página do bonk, onde aparecerá os seguintes botões:
+> 1. Atualmente o arquivo da extensão está sendo considerada "vírus" pelo fato de não ser uma extensão verificada pela Google, sendo assim, logo logo estarei disponibilizando a extensão verificada & melhorada.
+
 # <img src="/Buttons.png" alt="Buttons"><img/>
 
 ### - **Informações:**

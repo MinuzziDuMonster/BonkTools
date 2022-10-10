@@ -1,4 +1,4 @@
-<img src="/IconBonkTools.png" alt="Icon"><img/>
+<img src="/Images/IconBonkTools.png" alt="Icon"><img/>
 
 # 
 ### - Nosso site: https://bonktools.vercel.app (ainda em desenvolvimento).
@@ -8,7 +8,7 @@
 
 > 1. Atualmente o arquivo da extensão está sendo considerada "vírus" pelo fato de não ser uma extensão verificada pela Google, sendo assim, logo logo estarei disponibilizando a extensão verificada & melhorada.
 
-# <img src="/Buttons.png" alt="Buttons"><img/>
+# <img src="/Images/Buttons.png" alt="Buttons"><img/>
 
 ### - **Informações:**
 > - **Créditos:** BlackBL 

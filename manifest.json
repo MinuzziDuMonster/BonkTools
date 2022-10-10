@@ -1,0 +1,42 @@
+{
+    "name": "BonkTools",
+    "author": "BlackBL",
+    "description": "Apenas uma ferramenta de modificação do jogo Bonk.io!",
+    "options_page": "/assets/pages/Config/options.html",
+    "version": "1.0.2",
+    "manifest_version": 3,
+    
+    "content_scripts": [
+        {
+            "matches": ["https://bonk.io/*"],
+            "all_frames" : true,
+            "css": ["config.css"],
+            "js": ["config.js", "js/mute.js"],
+            "run_at": "document_idle"
+        }
+    ],
+    "permissions": [
+        "storage",
+        "activeTab",
+        "tabs",
+        "scripting",
+        "webRequest"
+    ],
+    "action": {
+        "default_icon": {
+            "16": "/src/images/icon.png",
+            "32": "/src/images/icon.png",
+            "48": "/src/images/icon.png",
+            "128": "/src/images/icon.png"
+        }
+    },
+    "icons": {
+        "16": "/src/images/icon.png",
+        "32": "/src/images/icon.png",
+        "48": "/src/images/icon.png",
+        "128": "/src/images/icon.png"
+    },
+    "host_permissions": [
+        "https://bonk.io/"
+    ]
+}

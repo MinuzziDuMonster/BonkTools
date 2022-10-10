@@ -8,7 +8,7 @@
 
 > 1. Atualmente o arquivo da extensão está sendo considerada "vírus" pelo fato de não ser uma extensão verificada pela Google, sendo assim, logo logo estarei disponibilizando a extensão verificada & melhorada.
 
-# <img src="/Images/Buttons.png" alt="Buttons"><img/>
+# <img src="/Images/ContainerConfig.png" alt="Buttons"><img/>
 
 ### - **Informações:**
 > - **Créditos:** BlackBL 

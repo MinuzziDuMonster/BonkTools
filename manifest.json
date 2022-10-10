@@ -1,7 +1,7 @@
 {
     "name": "BonkTools",
     "author": "BlackBL",
-    "description": "Apenas uma ferramenta de modificação do jogo Bonk.io!",
+    "description": "Mude os estilos, configurações e muito mais do jogo bonk.io com a BonkTools!",
     "options_page": "/assets/pages/Config/options.html",
     "version": "1.0.2",
     "manifest_version": 3,

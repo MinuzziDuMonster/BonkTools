@@ -1,4 +1,6 @@
-<img src="/Images/IconBonkTools.png" alt="Icon"><img/>
+<img src="/Images/IconBonkTools.png" alt="Icon"><img/> 
+
+> `VERSÃO 1.0.7 DISPONÍVEL!!`
 
 # 
 ### - Nosso site: https://bonktools.vercel.app (ainda em desenvolvimento).

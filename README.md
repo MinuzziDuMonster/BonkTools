@@ -10,8 +10,13 @@
 
 > 1. Baixe o arquivo: [Extensão - Bonk.io.crx](https://github.com/OBlackBL/BonkTools/raw/main/Extens%C3%A3o%20-%20Bonk.io.crx)
 > 2. Abra o arquivo baixado. (Recomendo usar o OperaGX, pois em outros navegadores estava dando erro).
-> 3. 
+> 3. Clique em "Ir para Extensões"
+> 4. Clique em "Instalar"
+> 5. Clique em "Sim, instalar"
+> - `A extensão requer as seguintes permissões: "Ler e alterar seus dados em bonk.io", "ler seu histórico de navegação" & "exibir notificações", porém alguns itens requeridos não são utilizados, pois essas requisições foram adicionadas apenas para ás próximas atualizações da extensão.`
 
+
+<img src="/Images/pass1.png" alt="passo1"><img/> <img src="/Images/pass2.png" alt="passo2"><img/> <img src="/Images/pass3.png" alt="passo3"><img/>
 # <img src="/Images/ContainerConfig.png" alt="Buttons"><img/>
 
 ### - **Informações:**

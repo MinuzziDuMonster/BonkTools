@@ -8,7 +8,9 @@
 
 ### - **Como instalar:**
 
-> 1. Atualmente o arquivo da extensão está sendo considerada "vírus" pelo fato de não ser uma extensão verificada pela Google, sendo assim, logo logo estarei disponibilizando a extensão verificada & melhorada.
+> 1. Baixe o arquivo: [Extensão - Bonk.io.crx](https://github.com/OBlackBL/BonkTools/raw/main/Extens%C3%A3o%20-%20Bonk.io.crx)
+> 2. Abra o arquivo baixado. (Recomendo usar o OperaGX, pois em outros navegadores estava dando erro).
+> 3. 
 
 # <img src="/Images/ContainerConfig.png" alt="Buttons"><img/>
 

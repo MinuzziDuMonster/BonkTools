@@ -16,7 +16,6 @@
 > - `A extensão requer as seguintes permissões: "Ler e alterar seus dados em bonk.io", "ler seu histórico de navegação" & "exibir notificações", porém alguns itens requeridos não são utilizados, pois essas requisições foram adicionadas apenas para ás próximas atualizações da extensão.`
 
 
-<img src="/Images/pass1.png" alt="passo1"><img/> <img src="/Images/pass2.png" alt="passo2"><img/> <img src="/Images/pass3.png" alt="passo3"><img/>
 # <img src="/Images/ContainerConfig.png" alt="Buttons"><img/>
 
 ### - **Informações:**

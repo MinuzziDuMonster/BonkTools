@@ -1,17 +1,26 @@
-{
+{ 
+"update_url": "https://clients2.google.com/service/update2/crx",
+
     "name": "BonkTools",
     "author": "BlackBL",
-    "description": "Mude os estilos, configurações e muito mais do jogo bonk.io com a BonkTools!",
+    "description": "Apenas uma ferramenta de modificação do jogo Bonk.io!",
     "options_page": "/assets/pages/Config/options.html",
-    "version": "1.0.2",
+    "version": "1.0.7",
     "manifest_version": 3,
-    
     "content_scripts": [
         {
-            "matches": ["https://bonk.io/*"],
-            "all_frames" : true,
-            "css": ["config.css"],
-            "js": ["config.js", "js/mute.js"],
+            "matches": [
+                "https://bonk.io/*"
+            ],
+            "all_frames": true,
+            "css": [
+                "config.css"
+            ],
+            "js": [
+                "config.js",
+                "js/mute.js",
+                "js/fileSave.js"
+            ],
             "run_at": "document_idle"
         }
     ],
@@ -20,7 +29,10 @@
         "activeTab",
         "tabs",
         "scripting",
-        "webRequest"
+        "webRequest",
+        "notifications",
+        "webRequestBlocking",
+        "*://bonk.io/*"
     ],
     "action": {
         "default_icon": {

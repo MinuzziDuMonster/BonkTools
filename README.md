@@ -6,6 +6,10 @@
 ### - Nosso site: https://bonktools.vercel.app (ainda em desenvolvimento).
 #
 
+### - NOVO LAUNCHER!!
+> <img src="/Images/Launcher.png" alt="Launcher"><img/>
+#
+
 ### - **Como instalar:**
 
 > 1. Baixe o arquivo: [Extensão - Bonk.io.crx](https://github.com/OBlackBL/BonkTools/raw/main/Extens%C3%A3o%20-%20Bonk.io.crx)

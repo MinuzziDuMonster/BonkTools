@@ -24,7 +24,7 @@
 
 ### - **Informações:**
 > - **Créditos:** BlackBL 
-> - **Divulgadores:** Minuzzi (tlor), tirol (tirolezrafael)
+> - **Divulgadores / Os primeiros a testar a extensão e o Launcher:** Minuzzi (tlor), tirol (tirolezrafael) 
 > - **Data do inicio da criação:** 01/10/22
 > - **Logo logo será adicionado mais funções, fique de olho no nosso GitHub, pois a extensão sempre será atualizada por aqui.**
 

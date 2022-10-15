@@ -1,31 +1,29 @@
 <img src="/Images/IconBonkTools.png" alt="Icon"><img/> 
 
-> `VERSÃO 1.0.7 DISPONÍVEL!!`
+> `EXTENSÃO: VERSÃO 1.0.7 DISPONÍVEL!!`
+> `LAUNCHER: VERSÃO 1.0.0 DISPONÍVEL!!`
 
 # 
 ### - Nosso site: https://bonktools.vercel.app (ainda em desenvolvimento).
 #
+### - LAUNCHER BONKTOOLS DISPONÍVEL!!
+ - **Como instalar:**
 
-### - NOVO LAUNCHER!!
-> <img src="/Images/Launcher.png" alt="Launcher"><img/>
+> 1. Baixe o arquivo: [Launcher]() no site oficial da BonkTools
+> 2. Abra o arquivo baixado.
+> 3. Dê next em tudo e aperte "Finish" & pronto, o seu Launcher está instalado.
+> 4. Agora, para instalar a extensão, aperte com o botão direito no novo Launcher & clique em "Abrir local do arquivo".
+> 5. Abra a pasta "app-1.0.2"
+> 6. Ao encontrar o arquivo chamado "Extensão - Bonk.io.crx" poderá arrastá-lo para a sua Área de Trabalho
+
 #
 
-### - **Como instalar:**
-
-> 1. Baixe o arquivo: [Extensão - Bonk.io.crx](https://github.com/OBlackBL/BonkTools/raw/main/Extens%C3%A3o%20-%20Bonk.io.crx)
-> 2. Abra o arquivo baixado. (Recomendo usar o OperaGX, pois em outros navegadores estava dando erro).
-> 3. Clique em "Ir para Extensões"
-> 4. Clique em "Instalar"
-> 5. Clique em "Sim, instalar"
-> - `A extensão requer as seguintes permissões: "Ler e alterar seus dados em bonk.io", "ler seu histórico de navegação" & "exibir notificações", porém alguns itens requeridos não são utilizados, pois essas requisições foram adicionadas apenas para ás próximas atualizações da extensão.`
-
-
-# <img src="/Images/ContainerConfig.png" alt="Buttons"><img/>
 
 ### - **Informações:**
 > - **Créditos:** BlackBL 
 > - **Divulgadores / Os primeiros a testar a extensão e o Launcher:** Minuzzi (tlor), tirol (tirolezrafael) 
 > - **Data do inicio da criação:** 01/10/22
-> - **Logo logo será adicionado mais funções, fique de olho no nosso GitHub, pois a extensão sempre será atualizada por aqui.**
+> - **Data da finalização do Launcher:** 15/10/22
+> - **Logo logo será adicionado mais funções tanto no launcher quanto na extensão, fique de olho no nosso GitHub, pois a extensão sempre será atualizada por aqui.**
 
 #

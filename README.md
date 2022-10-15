@@ -9,9 +9,9 @@
 ### - LAUNCHER BONKTOOLS DISPONÍVEL!!
  - **Como instalar:**
 
-> 1. Baixe o arquivo: [Launcher]() no site oficial da BonkTools
+> 1. Entre no site oficial da [BonkTools](https://bonktools.vercel.app) e clique em Download.
 > 2. Abra o arquivo baixado.
-> 3. Dê next em tudo e aperte "Finish" & pronto, o seu Launcher está instalado.
+> 3. Dê next em tudo e na ultima etapa aperte "Finish" & pronto, o seu Launcher está instalado.
 > 4. Agora, para instalar a extensão, aperte com o botão direito no novo Launcher & clique em "Abrir local do arquivo".
 > 5. Abra a pasta "app-1.0.2"
 > 6. Ao encontrar o arquivo chamado "Extensão - Bonk.io.crx" poderá arrastá-lo para a sua Área de Trabalho

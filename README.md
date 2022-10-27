@@ -10,14 +10,17 @@
  - **Como instalar o Launcher:**
 
 > 1. Entre no site oficial da [BonkTools](https://bonktools.vercel.app) e clique em Downloads.
-> 2. Abra o arquivo baixado.
-> 3. Clique em next em tudo, e na última etapa clique em "Finish" & pronto, o seu Launcher está instalado.
+> 2. Clique em Launcher.
+> 3. Abra o arquivo baixado.
+> 4. Clique em next em tudo, e na última etapa clique em "Finish" & pronto, o seu Launcher está instalado.
 
 #
  - **Como instalar a extensão:**
 
 > 1. Entre no site oficial da [BonkTools](https://bonktools.vercel.app) e clique em Downloads.
 > 2. Clique em "Extensão".
+> 3. Abra o arquivo baixado.
+> 4. Clique em instalar
 
 #
 

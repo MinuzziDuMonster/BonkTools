@@ -1,0 +1,19 @@
+{
+  "name": "bonktools",
+  "version": "1.1.0",
+  "description": "BonkTools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OBlackBL/BonkTools.git"
+  },
+  "author": "BlackBL / OKotlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OBlackBL/BonkTools/issues"
+  },
+  "homepage": "https://github.com/OBlackBL/BonkTools#readme"
+}

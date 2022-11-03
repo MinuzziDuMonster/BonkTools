@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Oct 2022 23:30:51 at https://bonk.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" -Y https://bonk.io/ -O1 "C:\Users\User\Desktop\CLONE\CLONEBONK" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:31:25	Warning: 	Link https://bonk.io/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+23:31:31	Error: 	"Not Found" (404) at link https://bonk.io/js/colorpicker/color-picker-h.png (from https://bonk.io/js/colorpicker/color-picker.css)
+23:31:31	Error: 	"Not Found" (404) at link https://bonk.io/js/colorpicker/color-picker-sv.png (from https://bonk.io/js/colorpicker/color-picker.css)
+23:32:17	Warning: 	Link https://supercarstadium.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+23:32:17	Error: 	"Not Found" (404) at link https://supercarstadium.com/js/colorpicker/color-picker-h.png (from https://supercarstadium.com/js/colorpicker/color-picker.css)
+23:32:17	Error: 	"Not Found" (404) at link https://supercarstadium.com/js/colorpicker/color-picker-sv.png (from https://supercarstadium.com/js/colorpicker/color-picker.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 26 seconds : 221 links scanned, 214 files written (12011962 bytes overall) [5409820 bytes received at 62904 bytes/sec], 10899430 bytes transferred using HTTP compression in 122 files, ratio 37%, 15.7 requests per connection
+(4 errors, 2 warnings, 0 messages)

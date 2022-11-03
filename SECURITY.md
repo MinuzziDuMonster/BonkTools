@@ -6,8 +6,8 @@
 > 
 | Versões | Suportadas         |
 | ------- | ------------------ |
-| 1.0.7   | :white_check_mark: |
-| < 1.0.7 | :x:                |
+| 1.1.0   | :white_check_mark: |
+| < 1.1.0 | :x:                |
 
 > - **Launcher:**
 > 
